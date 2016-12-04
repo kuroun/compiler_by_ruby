@@ -1,0 +1,3 @@
+class TInteger < TNum
+  
+end
